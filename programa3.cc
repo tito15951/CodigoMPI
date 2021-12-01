@@ -17,9 +17,9 @@ int main(int argc, char* argv[])
     // Get the size of the communicator
     int size = 0;
     MPI_Comm_size(MPI_COMM_WORLD, &size);
-    if(size != 4)
+    if(size != 3)
     {
-        printf("This application is meant to be run with 4 MPI processes.\n");
+        printf("This application is meant to be run with 3 MPI processes.\n");
         MPI_Abort(MPI_COMM_WORLD, EXIT_FAILURE);
     }
  

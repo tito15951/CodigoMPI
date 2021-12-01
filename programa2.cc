@@ -13,7 +13,7 @@ int main(int argc,char *argv[])
 			printf("Ingrese el numero de intervalo(0 para salir)");
 			scanf("%d",&n);
 		}
-		MPI_Bcast(&n,1,MPI_INT,0,MPI_COMM_WOLRD);
+		MPI_Bcast(&n,1,MPI_INT,0,MPI_COMM_WORLD);
 		if(n==0) break;
 		h=1.0/(double) n;
 		sum=0.0;
