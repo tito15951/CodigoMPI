@@ -1,9 +1,10 @@
 #include "mpi.h"
 #include <math.h>
+#include <fstream>
+#include <sstream>
 int main(int argc,char *argv[])
 {
 	int done=0,n,myid,numprocs,i,rc;
-	double PI25DT=3.141592653589793238462643;
 	double mypi,pi,h,sum,x,a;
 	MPI_Init(&argc,&argv);
 	MPI_Comm_size(MPI_COMM_WORLD,&numprocs);
@@ -24,7 +25,7 @@ int main(int argc,char *argv[])
 		mypi=h*sum;
 		MPI_Reduce(&mypi,&pi,1,MPI_DOUBLE,MPI_SUM,0,MPI_COMM_WORLD);
 		if(myid==0)
-		printf("Pi aproximado es %.16f, el error es %.16f\n",pi,fabs(pi-PI25DT));	
+		printf("Pi aproximado es %.16f, el error es %.16f\n",pi,fabs(pi-M_PI));	
 	}
 	MPI_Finalize();
 	return 0;
