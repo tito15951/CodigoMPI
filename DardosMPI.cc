@@ -87,7 +87,7 @@ int main(int argc, char *argv[])
 		printMat(hitoriginal);
 	  	if(rank==0){
 			tiempo = endTime - startTime;
-			writeTime(numranks, Hilos, NPC, tiempo);
+			//writeTime(numranks, Hilos, NPC, tiempo);
 		}
 		printf("tiempo: %3f\n", tiempo);
 		
