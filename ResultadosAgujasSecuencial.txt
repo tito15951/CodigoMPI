@@ -1,0 +1,54 @@
+Resultados para 100 agujas:
+PI;Segundos;Aciertos;Error
+3.0303;0.000265;66;3.67256;
+Resultados para 100 agujas:
+PI;Segundos;Aciertos;Error
+2.89855;0.000263;69;8.38495;
+Resultados para 100 agujas:
+PI;Segundos;Aciertos;Error
+3.27869;0.000263;61;-4.18142;
+Resultados para 1000 agujas:
+PI;Segundos;Aciertos;Error
+3.0303;0.002514;660;3.67256;
+Resultados para 1000 agujas:
+PI;Segundos;Aciertos;Error
+3.10078;0.002523;645;1.31636;
+Resultados para 1000 agujas:
+PI;Segundos;Aciertos;Error
+3.12012;0.002529;641;0.688044;
+Resultados para 10000 agujas:
+PI;Segundos;Aciertos;Error
+3.14218;0.024944;6365;-0.0188126;
+Resultados para 10000 agujas:
+PI;Segundos;Aciertos;Error
+3.13038;0.024988;6389;0.358176;
+Resultados para 10000 agujas:
+PI;Segundos;Aciertos;Error
+3.14169;0.025255;6366;-0.00310663;
+Resultados para 100000 agujas:
+PI;Segundos;Aciertos;Error
+3.15567;0.250515;63378;-0.446072;
+Resultados para 100000 agujas:
+PI;Segundos;Aciertos;Error
+3.14357;0.25029;63622;-0.0627935;
+Resultados para 100000 agujas:
+PI;Segundos;Aciertos;Error
+3.14213;0.249694;63651;-0.0172422;
+Resultados para 1000000 agujas:
+PI;Segundos;Aciertos;Error
+3.14269;2.50074;636398;-0.0348322;
+Resultados para 1000000 agujas:
+PI;Segundos;Aciertos;Error
+3.13911;2.50838;637123;0.079047;
+Resultados para 1000000 agujas:
+PI;Segundos;Aciertos;Error
+3.142;2.51256;636538;-0.0128419;
+Resultados para 10000000 agujas:
+PI;Segundos;Aciertos;Error
+3.14254;25.1689;6.36427e+06;-0.0302665;
+Resultados para 10000000 agujas:
+PI;Segundos;Aciertos;Error
+3.14382;25.1144;6.36169e+06;-0.0707438;
+Resultados para 10000000 agujas:
+PI;Segundos;Aciertos;Error
+3.1427;25.0952;6.36396e+06;-0.03509;
