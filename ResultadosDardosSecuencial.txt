@@ -1,54 +1,54 @@
 Resultados para 100 dardos:
 PI;Segundos;Error
-2.68;9e-06;17.2236;
+3.28;9e-06;-4.21974;
 Resultados para 100 dardos:
 PI;Segundos;Error
-3.16;7e-06;-0.582514;
+3.24;9e-06;-3.03726;
 Resultados para 100 dardos:
 PI;Segundos;Error
-3.16;9e-06;-0.582514;
+2.96;9e-06;6.13489;
 Resultados para 1000 dardos:
 PI;Segundos;Error
-3.24;3.2e-05;-3.03726;
+3.1;3.3e-05;1.3417;
 Resultados para 1000 dardos:
 PI;Segundos;Error
-3.116;3.4e-05;0.821332;
+3.156;3.2e-05;-0.456503;
 Resultados para 1000 dardos:
 PI;Segundos;Error
-3.132;3.3e-05;0.30628;
+3.112;3.3e-05;0.950921;
 Resultados para 10000 dardos:
 PI;Segundos;Error
-3.1652;0.000266;-0.74584;
+3.1416;0.000267;-0.000230455;
 Resultados para 10000 dardos:
 PI;Segundos;Error
-3.1132;0.000269;0.91201;
+3.148;0.000289;-0.203537;
 Resultados para 10000 dardos:
 PI;Segundos;Error
-3.142;0.000281;-0.0129633;
+3.1288;0.000271;0.40887;
 Resultados para 100000 dardos:
 PI;Segundos;Error
-3.14152;0.002603;0.00231195;
+3.1504;0.002625;-0.27956;
 Resultados para 100000 dardos:
 PI;Segundos;Error
-3.1452;0.002631;-0.114694;
+3.13764;0.002602;0.125975;
 Resultados para 100000 dardos:
 PI;Segundos;Error
-3.14052;0.002633;0.0341522;
+3.14252;0.00263;-0.0295081;
 Resultados para 1000000 dardos:
 PI;Segundos;Error
-3.13996;0.026249;0.0518652;
+3.14456;0.026151;-0.0943676;
 Resultados para 1000000 dardos:
 PI;Segundos;Error
-3.1405;0.026598;0.0347902;
+3.14177;0.026101;-0.00570946;
 Resultados para 1000000 dardos:
 PI;Segundos;Error
-3.14147;0.026297;0.00383745;
+3.14231;0.026197;-0.0227649;
 Resultados para 10000000 dardos:
 PI;Segundos;Error
-3.14222;0.264524;-0.0200947;
+3.14075;0.26356;0.0268395;
 Resultados para 10000000 dardos:
 PI;Segundos;Error
-3.14218;0.264597;-0.0187292;
+3.14128;0.265102;0.00993992;
 Resultados para 10000000 dardos:
 PI;Segundos;Error
-3.14181;0.262815;-0.00700703;
+3.14151;0.265567;0.00278249;
